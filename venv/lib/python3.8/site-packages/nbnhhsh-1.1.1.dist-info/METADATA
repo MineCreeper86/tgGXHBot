@@ -1,0 +1,29 @@
+Metadata-Version: 2.1
+Name: nbnhhsh
+Version: 1.1.1
+Summary: nbnhhsh的python版本
+Home-page: https://github.com/purofle/nbnhhsh-python
+Author: purofle
+Author-email: 3272912942@qq.com
+License: UNKNOWN
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.5
+Classifier: Programming Language :: Python :: 3.6
+Classifier: Programming Language :: Python :: 3.7
+Classifier: Programming Language :: Python :: 3.8
+Classifier: License :: OSI Approved :: Apache Software License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.4
+Description-Content-Type: text/markdown
+
+# nbnhhsh-python
+nbnhhsh的python版本
+
+## 安装方法：
+```bash
+pip3 install nbnhhsh --user
+nbnhhsh text
+```
+
+

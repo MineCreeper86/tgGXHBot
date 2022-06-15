@@ -1,0 +1,3 @@
+[console_scripts]
+nbnhhsh = nbnhhsh.cmd:main
+
